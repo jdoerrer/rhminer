@@ -1,4 +1,4 @@
-# This project is no longer supported
+# ADDED BACK -devfee option 
 
 # rhminer 
 
